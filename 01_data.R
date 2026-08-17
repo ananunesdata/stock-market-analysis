@@ -1,5 +1,6 @@
 # 01 Data
 # Data directory
+setwd("C:/Users/ASUS/Desktop") #put your folder with the data
 BASE <- "data"
 
 # Local data file paths
