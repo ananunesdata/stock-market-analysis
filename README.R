@@ -28,7 +28,7 @@ The final specification identifies Bear regimes that align closely with well-kno
   ```
 .
 ├── R/
-  │   ├── 00_packages_and_helper_functions.R   # dependencies + shared helper functions
+│   ├── 00_packages_and_helper_functions.R    # dependencies + shared helper functions
 │   ├── 01_data.R                             # raw data import
 │   ├── 02_data_handling.R                    # cleaning, merging, feature engineering
 │   ├── 03_plots.R                            # exploratory data analysis & figures
@@ -36,11 +36,8 @@ The final specification identifies Bear regimes that align closely with well-kno
 │   ├── 05_HMM.R                              # HMM-NH: Baum-Welch, Viterbi, model specifications
 │   └── 06_shapley_values.R                   # exact Shapley decomposition of transition probabilities
 ├── data/                                     # raw & processed data (see note below)
-  ├── figures/                                  # exported plots used in the report
-  ├── docs/
-  │   └── thesis.pdf                            # full written report
-├── .gitignore
-├── LICENSE
+├── figures/                                  # exported plots used in the report
+├── papper.pdf                                # full written report
 └── README.md
 ```
 
