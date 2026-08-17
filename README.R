@@ -92,3 +92,6 @@ Each script is meant to be run in order; later scripts assume objects created by
 - The selected **base model** (emissions, 3-month interest rate, corruption) achieves the best AIC/BIC trade-off and produces Bear regimes that line up with real historical crises, validating the approach economically as well as statistically.
 
 
+## Report
+
+The final report is written in Portuguese.
